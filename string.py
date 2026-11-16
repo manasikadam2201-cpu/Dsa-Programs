@@ -1,0 +1,6 @@
+arr=list("HELLO")
+print("Original string:", "".join(arr))
+print("Length:",len(arr))
+print("Reverse:", "".join(arr[::-1]))
+print("First character:",arr[0])
+print("Last character:",arr[-1])
